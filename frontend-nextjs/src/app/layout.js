@@ -24,25 +24,25 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable}  antialiased bg-white text-black `}
+        className={`${geistSans.variable} ${geistMono.variable}  antialiased bg-[#black] text-black `}
       >
-        {/* <video
+        <video
           autoPlay
           loop
           muted
           playsInline
-          className="fixed top-0 left-0 w-full h-full object-cover z-[-1]"
+          className="fixed top-0 left-0 w-full h-full object-cover z-[-1] "
         >
-          <source src="/bg1.mp4" type="video/mp4" />
+          <source src="/black.mp4" type="video/mp4" />
           Your browser does not support the video tag.
-        </video> */}
+        </video>
         <UserProvider>
           <Header />
           {/* <SpaceBackground/> */}
           <div className=" mt-24 min-h-[80vh]">
             {children}
           </div>
-          {/* <Footer/> */}
+          <Footer/>
         </UserProvider>
       </body>
     </html>

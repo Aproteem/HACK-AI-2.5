@@ -50,7 +50,7 @@ const Signup = () => {
 
     return (
         <div className="flex flex-col items-center justify-center h-[500px] bg-transparent text-white">
-            <div className="flex flex-col md:w-[40%] w-[90%] text-dark justify-center">
+            <div className="flex flex-col md:w-[40%] w-[90%] text-dark  bg-black/70 p-8 rounded-[20px]">
                 <div className="md:text-[35px] text-[25px] font-[300] leading-[20px] lg:mb-[40px] mb-[20px]">
                     Signup
                 </div>
@@ -58,8 +58,8 @@ const Signup = () => {
 
                 <form className="space-y-4" onSubmit={handleSubmit}>
                     <div className="w-[90%] h-[60px] border-[1px] rounded-md flex flex-row px-3 justify-between items-center text-semidark mb-4">
-                        <div className="flex flex-col w-[80%] justify-around">
-                            <div className="text-[10px] font-semibold opacity-90 text-white">
+                        <div className="flex flex-col w-[500px] justify-around">
+                            <div className="text-[10px] font-bold opacity-90 text-white">
                                 EMAIL ADDRESS
                             </div>
                             <input
@@ -78,7 +78,7 @@ const Signup = () => {
                     </div>
                     <div className="w-[90%] h-[60px] border-[1px] rounded-md flex flex-row px-3 justify-between items-center text-semidark mb-4">
                         <div className="flex flex-col w-[80%] justify-around">
-                            <div className="text-[10px] font-semibold opacity-90 text-white">
+                            <div className="text-[10px] font-bold opacity-90 text-white">
                                 Password
                             </div>
                             <input

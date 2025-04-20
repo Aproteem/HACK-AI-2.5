@@ -13,7 +13,11 @@ const links = [
 ];
 
 const SidebarNav = () => {
-  const { login, setLogin } = useUserContext();
+  const { login, setLogin, setChatbot } = useUserContext();
+
+  const handleClick = () => {
+    setChatbot(false);
+  };
   const [isExpanded, setIsExpanded] = useState(false);
   const pathname = usePathname();
 
@@ -24,13 +28,13 @@ const SidebarNav = () => {
 
   return (
     <aside 
-      className="fixed top-0 left-0 h-screen z-50 bg-[#003554] text-white flex flex-col items-center p-4 transition-all duration-300 ease-in-out"
+      className="fixed top-0 left-0 h-screen z-50 bg-zinc-900 text-white flex flex-col items-center p-4 transition-all duration-300 ease-in-out"
       style={{ 
         width: isExpanded ? "200px" : "60px",
         transform: "translateX(0)" // Ensure it's always visible
       }}
     >
-      <button onClick={toggleSidebar} className="text-black mb-6 text-2xl hover:text-gray-300">
+      <button onClick={toggleSidebar} className="text-white mb-6 text-2xl ">
         <FaBars />
       </button>
 
@@ -39,7 +43,8 @@ const SidebarNav = () => {
           <Link
             key={index}
             href={link.path}
-            className={`w-full px-4 py-2 capitalize transition-all font-medium hover:bg-[#005f73] ${
+            onClick={handleClick}
+            className={`w-full px-4 py-2 capitalize transition-all font-bold hover:opacity-70 ${
               pathname === link.path ? "bg-[#001219]" : ""
             } ${!isExpanded ? "hidden" : ""}`}
           >

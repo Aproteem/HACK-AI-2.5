@@ -50,7 +50,7 @@ const Login = () => {
 
     return (
         <div className="flex flex-col items-center justify-center h-[500px] bg-transparent text-white">
-            <div className="flex flex-col md:w-[40%] w-[90%] text-dark justify-center">
+            <div className="flex flex-col md:w-[40%] w-[90%] text-dark  bg-black/70 p-8 rounded-[20px]">
                 <div className="md:text-[35px] text-[25px] font-[300] leading-[20px] lg:mb-[40px] mb-[20px]">
                     Log In
                 </div>

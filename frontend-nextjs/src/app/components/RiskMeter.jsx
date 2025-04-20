@@ -48,7 +48,7 @@ export default function RiskMeter({ percentage=100, value, increase, header }) {
   };
 
   return (
-    <Card className="flex flex-col h-[320px] text-white bg-zinc-800 bg-opacity-50 border-none">
+    <Card className="flex flex-col h-[320px]  text-white border-none">
       {/* Risk Meter Chart */}
       <CardHeader className="items-center pb-0">
         <CardTitle>{header}</CardTitle>
@@ -64,6 +64,7 @@ export default function RiskMeter({ percentage=100, value, increase, header }) {
             endAngle={endAngle} // Set dynamic endAngle based on percentage
             innerRadius={80}
             outerRadius={140}
+            
           >
             <PolarGrid
               gridType="circle"
@@ -87,17 +88,17 @@ export default function RiskMeter({ percentage=100, value, increase, header }) {
                         <tspan
   x={viewBox.cx}
   y={viewBox.cy}
-  className="fill-foreground text-4xl font-bold"
+  className=" text-4xl font-bold text-white"
 >
   {value !== undefined && !isNaN(percentage) ? value.toLocaleString() : "N/A"}
 </tspan>
-                        <tspan
+                        {/* <tspan
                           x={viewBox.cx}
                           y={(viewBox.cy || 0) + 24}
                           className="fill-muted-foreground"
                         >
                           Risk Percentage
-                        </tspan>
+                        </tspan> */}
                       </text>
                     );
                   }

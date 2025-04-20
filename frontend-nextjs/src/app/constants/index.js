@@ -14,7 +14,7 @@ export const pricing = [
     description: "Our AI chatbot gives personalized answers",
     price: "Ask our chatbot",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
+      "Our AI chatbot gives personalized answers",
       "An analytics dashboard to track your conversations",
       "Priority support to solve issues quickly",
     ],
@@ -24,17 +24,17 @@ export const pricing = [
     description: "Our LLM's take on the company's annual report",
     price: "Detailed Summary",
     features: [
-      "An AI chatbot that can understand your queries",
+      "Our LLM's take on the company's annual report",
       "Personalized recommendations based on your preferences",
       "Ability to explore the app and its features without any cost",
     ],
   },
   {
-    id: "2",
+    id: "3",
     description: "Predict the future of the company",
     price: "Growth Statistics",
     features: [
-      "An AI chatbot that can understand your queries",
+      "Predict the future of the company",
       "Personalized recommendations based on your preferences",
       "Ability to explore the app and its features without any cost",
     ],

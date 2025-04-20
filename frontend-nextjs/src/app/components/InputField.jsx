@@ -8,7 +8,7 @@ const InputField = ({ input, onInputChange, onSend }) => {
       onSubmit={onSend}
       className="mt-4 flex w-full justify-center items-center"
     >
-      <div className="bg-[#003554]/70 border-[#003554]/70 h-[65px] md:w-[700px] w-full rounded-full border-2  justify-between flex">
+      <div className="bg-zinc-500/70 border-zinc-500/70 h-[65px] md:w-[700px] w-full rounded-xl border-2  justify-between flex">
         <input
           type="text"
           value={input}
@@ -18,7 +18,7 @@ const InputField = ({ input, onInputChange, onSend }) => {
         />
         <button
           type="submit"
-          className="ml-2 bg-[#003554] text-white p-5  rounded-full"
+          className="ml-2 bg-blue-600 text-white scale-55 px-4  rounded-xl"
         >
           <FaArrowUp />
         </button>
@@ -28,3 +28,8 @@ const InputField = ({ input, onInputChange, onSend }) => {
 };
 
 export default InputField;
+// #051923
+// #003554
+// #006494
+// #0582CA
+// #00A6FB

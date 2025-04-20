@@ -71,8 +71,8 @@ const Chat = () => {
       <div className="bg-transparent shadow-lg rounded-lg w-full flex flex-col justify-between items-center h-full">
         {/* Header */}
         <div className="flex items-center justify-center flex-col py-4">
-          <p className="text-black text-xl font-semibold">ChatBot</p>
-          <p className="text-black opacity-70 text-[12px]">Version 1.0.0</p>
+          <p className="text-white text-xl font-semibold">AI Agent</p>
+          <p className="text-white/70 opacity-70 text-[12px]">Version 1.0.0</p>
         </div>
 
         {/* Messages (scrollable) */}
