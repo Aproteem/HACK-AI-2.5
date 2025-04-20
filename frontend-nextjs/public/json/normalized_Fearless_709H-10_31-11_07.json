@@ -1,0 +1,1076 @@
+[
+  {
+    "Time": "2024-10-31 00:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9508248625739303",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.005730346080569072"
+  },
+  {
+    "Time": "2024-10-31 01:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9603935337672935",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.005632085914234504"
+  },
+  {
+    "Time": "2024-10-31 02:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9791379751104843",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.005039471126780081"
+  },
+  {
+    "Time": "2024-10-31 03:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9920024227196814",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.004704093191594424"
+  },
+  {
+    "Time": "2024-10-31 04:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.977465594369983",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.005062105095624871"
+  },
+  {
+    "Time": "2024-10-31 04:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9803562234759906",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0"
+  },
+  {
+    "Time": "2024-10-31 06:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9498324047431831",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0008766172060556996"
+  },
+  {
+    "Time": "2024-10-31 06:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9303373693285117",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0015358764573312545"
+  },
+  {
+    "Time": "2024-10-31 08:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.933923994568781",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0014140841487848795"
+  },
+  {
+    "Time": "2024-10-31 08:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9540844104519841",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.00101493590455219"
+  },
+  {
+    "Time": "2024-10-31 10:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9626823099111586",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.00044441618192252424"
+  },
+  {
+    "Time": "2024-10-31 10:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9621883771707144",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.00065045715228021"
+  },
+  {
+    "Time": "2024-10-31 12:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9624287101466948",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0013715107311957151"
+  },
+  {
+    "Time": "2024-10-31 13:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9110533268768296",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0020322070598581925"
+  },
+  {
+    "Time": "2024-10-31 14:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9019885385152729",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.002287647565393306"
+  },
+  {
+    "Time": "2024-10-31 15:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9034478852484028",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0023560883759480896"
+  },
+  {
+    "Time": "2024-10-31 16:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9183403655816645",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0018579614266873716"
+  },
+  {
+    "Time": "2024-10-31 17:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9371177187655152",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.001382288811598142"
+  },
+  {
+    "Time": "2024-10-31 17:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9466236278441316",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0010749338854584875"
+  },
+  {
+    "Time": "2024-10-31 19:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8728845212806942",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.003102470443809055"
+  },
+  {
+    "Time": "2024-10-31 19:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8926334115903767",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.002583865141783803"
+  },
+  {
+    "Time": "2024-10-31 21:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9080861586064973",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.002148430693529925"
+  },
+  {
+    "Time": "2024-10-31 21:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9199326353301721",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.002088073443276897"
+  },
+  {
+    "Time": "2024-10-31 23:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9403599177663219",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0012405570543075198"
+  },
+  {
+    "Time": "2024-10-31 23:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8754024046564386",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.003582633925732608"
+  },
+  {
+    "Time": "2024-11-01 01:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8948979503322055",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.002489736572936828"
+  },
+  {
+    "Time": "2024-11-01 01:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9091444401185642",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.001945802781966243"
+  },
+  {
+    "Time": "2024-11-01 03:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9211894084083885",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0017350913101008049"
+  },
+  {
+    "Time": "2024-11-01 04:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9560415168837743",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0006914138578091507"
+  },
+  {
+    "Time": "2024-11-01 05:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.898030188066932",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0024002785055976055"
+  },
+  {
+    "Time": "2024-11-01 06:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9068263239617078",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.002353573490520848"
+  },
+  {
+    "Time": "2024-11-01 07:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.906605891168452",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.001940773011111888"
+  },
+  {
+    "Time": "2024-11-01 08:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9329751640616987",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.001451088891499529"
+  },
+  {
+    "Time": "2024-11-01 08:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9441605975361531",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.001341871010089361"
+  },
+  {
+    "Time": "2024-11-01 10:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.930388140307514",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0015416247668790708"
+  },
+  {
+    "Time": "2024-11-01 10:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8833744688819823",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.10725806712372914"
+  },
+  {
+    "Time": "2024-11-01 12:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8520023410779063",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.12944528453593354"
+  },
+  {
+    "Time": "2024-11-01 12:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8670657588781603",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.20318190489637414"
+  },
+  {
+    "Time": "2024-11-01 14:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.0",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "1.0"
+  },
+  {
+    "Time": "2024-11-01 14:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9481156312873734",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.024767310225847484"
+  },
+  {
+    "Time": "2024-11-01 16:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8793232509142604",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.026828797737465302"
+  },
+  {
+    "Time": "2024-11-01 16:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8443004601024298",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.06513481402601899"
+  },
+  {
+    "Time": "2024-11-01 18:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8809270015374168",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.06397383513201528"
+  },
+  {
+    "Time": "2024-11-01 19:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9503811905513933",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.1177138829220238"
+  },
+  {
+    "Time": "2024-11-01 20:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.945229339400678",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.04568325305459783"
+  },
+  {
+    "Time": "2024-11-01 21:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8961662042850705",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.03275458634266319"
+  },
+  {
+    "Time": "2024-11-01 23:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9393656740217402",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.016747340598478027"
+  },
+  {
+    "Time": "2024-11-02 01:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9245540700721152",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.012310543800861334"
+  },
+  {
+    "Time": "2024-11-02 01:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9463218084061433",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.011659188475214233"
+  },
+  {
+    "Time": "2024-11-02 03:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9554149162585002",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01142745974656423"
+  },
+  {
+    "Time": "2024-11-02 03:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9252411366372059",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01234180023402804"
+  },
+  {
+    "Time": "2024-11-02 05:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.894924994170267",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.013153748957669817"
+  },
+  {
+    "Time": "2024-11-02 05:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8976985183548569",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.013049381212440574"
+  },
+  {
+    "Time": "2024-11-02 07:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9002602841848145",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.012984533095353351"
+  },
+  {
+    "Time": "2024-11-02 07:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9479076998909572",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01677895630099159"
+  },
+  {
+    "Time": "2024-11-02 09:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9816609610971838",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.015855274810512403"
+  },
+  {
+    "Time": "2024-11-02 10:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.892846445597748",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.018701047306072725"
+  },
+  {
+    "Time": "2024-11-02 11:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9045995445409462",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.018075379738717815"
+  },
+  {
+    "Time": "2024-11-02 12:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9030825383040246",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.018061008964847955"
+  },
+  {
+    "Time": "2024-11-02 13:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9033215956272665",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.018063703484948623"
+  },
+  {
+    "Time": "2024-11-02 14:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9670384088834415",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.021084080883026626"
+  },
+  {
+    "Time": "2024-11-02 15:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8531261911407448",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.024253555060003415"
+  },
+  {
+    "Time": "2024-11-02 16:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8682016000767432",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.029007047786775136"
+  },
+  {
+    "Time": "2024-11-02 16:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9397578096736319",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.10450696210103583"
+  },
+  {
+    "Time": "2024-11-02 18:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8639069875664679",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.10715316047447986"
+  },
+  {
+    "Time": "2024-11-02 18:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8942121594198537",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.10557237534880563"
+  },
+  {
+    "Time": "2024-11-02 20:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.852592202904304",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.13215651066113823"
+  },
+  {
+    "Time": "2024-11-02 20:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8477255877059733",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.16907520836723944"
+  },
+  {
+    "Time": "2024-11-02 22:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.935101422046647",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.014282752879813228"
+  },
+  {
+    "Time": "2024-11-02 22:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8508764499706856",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.02181788852375151"
+  },
+  {
+    "Time": "2024-11-03 00:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8600810498724092",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.11212742421482585"
+  },
+  {
+    "Time": "2024-11-03 01:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9354228865368119",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.11000504054893485"
+  },
+  {
+    "Time": "2024-11-03 01:46:00",
+    "Inj Gas Meter Volume Instantaneous": "0.894394322630947",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.11652254576822028"
+  },
+  {
+    "Time": "2024-11-03 02:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8731442441783036",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.12240755730256266"
+  },
+  {
+    "Time": "2024-11-03 03:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8874091033641004",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.12158770465329255"
+  },
+  {
+    "Time": "2024-11-03 04:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9427438576044975",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.029389669641057582"
+  },
+  {
+    "Time": "2024-11-03 04:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9230924271640556",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01994843047796838"
+  },
+  {
+    "Time": "2024-11-03 06:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9488279557766914",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.019241388403575876"
+  },
+  {
+    "Time": "2024-11-03 06:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9547969900718498",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01906157409553041"
+  },
+  {
+    "Time": "2024-11-03 08:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9468489081177948",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.019207257815635197"
+  },
+  {
+    "Time": "2024-11-03 08:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9697006961492126",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.013964979142618133"
+  },
+  {
+    "Time": "2024-11-03 10:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8838104869880871",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.016185802609517005"
+  },
+  {
+    "Time": "2024-11-03 10:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8799187256127087",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0164015438522368"
+  },
+  {
+    "Time": "2024-11-03 12:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8915110923108245",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.015981378351219544"
+  },
+  {
+    "Time": "2024-11-03 13:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8882403186886698",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01610263175574576"
+  },
+  {
+    "Time": "2024-11-03 14:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9224219440845686",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01515164579491403"
+  },
+  {
+    "Time": "2024-11-03 15:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9127180537008982",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.015334154623060037"
+  },
+  {
+    "Time": "2024-11-03 16:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8439792507428125",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.04757336908781867"
+  },
+  {
+    "Time": "2024-11-03 17:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8511170380772137",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0573108258272985"
+  },
+  {
+    "Time": "2024-11-03 17:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.879021431476272",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0663976457798247"
+  },
+  {
+    "Time": "2024-11-03 19:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9057157406873523",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.07535836219164362"
+  },
+  {
+    "Time": "2024-11-03 19:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9556685160229639",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.07384601787652417"
+  },
+  {
+    "Time": "2024-11-03 21:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9092898645307816",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.07525920385194229"
+  },
+  {
+    "Time": "2024-11-03 21:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9120182306084201",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.07509429922178672"
+  },
+  {
+    "Time": "2024-11-03 23:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9103981516302078",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.07503699576098097"
+  },
+  {
+    "Time": "2024-11-03 23:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9267298233833271",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.07453419831021262"
+  },
+  {
+    "Time": "2024-11-04 01:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9557404628374293",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.07384835312727799"
+  },
+  {
+    "Time": "2024-11-04 01:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9580027054043282",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0738217671956189"
+  },
+  {
+    "Time": "2024-11-04 03:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9811175330304762",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.016478786761786803"
+  },
+  {
+    "Time": "2024-11-04 04:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8806506951542034",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.019228095437746336"
+  },
+  {
+    "Time": "2024-11-04 05:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9059218861699344",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.018790685008085374"
+  },
+  {
+    "Time": "2024-11-04 06:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9422777340937584",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01754491854825007"
+  },
+  {
+    "Time": "2024-11-04 07:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9586841590973685",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.017059545660798734"
+  },
+  {
+    "Time": "2024-11-04 08:00:00",
+    "Inj Gas Meter Volume Instantaneous": "1.0",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.015935751144183108"
+  },
+  {
+    "Time": "2024-11-04 08:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8102606872910799",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.02572566120828751"
+  },
+  {
+    "Time": "2024-11-04 10:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8604499686444557",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.1202664916306409"
+  },
+  {
+    "Time": "2024-11-04 10:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9071763630732209",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.015467084281355313"
+  },
+  {
+    "Time": "2024-11-04 12:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9006631353197118",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01565965265121016"
+  },
+  {
+    "Time": "2024-11-04 12:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9310818402668463",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.014660704232588051"
+  },
+  {
+    "Time": "2024-11-04 14:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8686434861854463",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01655243697786937"
+  },
+  {
+    "Time": "2024-11-04 14:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8872333184167006",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01582689253211954"
+  },
+  {
+    "Time": "2024-11-04 16:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8986177537184",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.015943475435138004"
+  },
+  {
+    "Time": "2024-11-04 16:28:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9139171672753231",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.015290323762757251"
+  },
+  {
+    "Time": "2024-11-04 16:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9065066453853773",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.015319424579843446"
+  },
+  {
+    "Time": "2024-11-04 18:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9653106648140788",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.013719059274771699"
+  },
+  {
+    "Time": "2024-11-04 19:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8765545742100777",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.0173198363025149"
+  },
+  {
+    "Time": "2024-11-04 20:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9019686383325483",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01561348654015356"
+  },
+  {
+    "Time": "2024-11-04 21:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9515979081336128",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.014223832706947251"
+  },
+  {
+    "Time": "2024-11-04 22:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8331086483642816",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.012552332071220177"
+  },
+  {
+    "Time": "2024-11-04 23:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9156329202089417",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.1331926434571483"
+  },
+  {
+    "Time": "2024-11-04 23:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8795038833420673",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.1341012356350643"
+  },
+  {
+    "Time": "2024-11-05 01:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8600879383971984",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.15386733691955998"
+  },
+  {
+    "Time": "2024-11-05 01:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9540517537418722",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.023907399044415457"
+  },
+  {
+    "Time": "2024-11-05 03:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8987381753369381",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.025616622961550643"
+  },
+  {
+    "Time": "2024-11-05 03:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8820896314435134",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.021173179681019116"
+  },
+  {
+    "Time": "2024-11-05 05:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9025337524958145",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.025832543838943865"
+  },
+  {
+    "Time": "2024-11-05 06:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8306476591006852",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.11197958487864057"
+  },
+  {
+    "Time": "2024-11-05 07:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8712389292477069",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.05690664781221133"
+  },
+  {
+    "Time": "2024-11-05 07:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9118587740160764",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.055820217307657086"
+  },
+  {
+    "Time": "2024-11-05 09:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9807509104333597",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.07931876783547762"
+  },
+  {
+    "Time": "2024-11-05 10:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8812002463540569",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.12743786706100066"
+  },
+  {
+    "Time": "2024-11-05 11:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8664534455635604",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.040154816346898985"
+  },
+  {
+    "Time": "2024-11-05 12:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9048039041096938",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.08489175394217272"
+  },
+  {
+    "Time": "2024-11-05 13:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8657908715310537",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.13251793562396283"
+  },
+  {
+    "Time": "2024-11-05 14:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.964429699032698",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.03368958481756484"
+  },
+  {
+    "Time": "2024-11-05 15:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9303886505686094",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.02324706198509971"
+  },
+  {
+    "Time": "2024-11-05 16:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8662975607988852",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.026036968097241327"
+  },
+  {
+    "Time": "2024-11-05 16:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9114839872414315",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.025146698656009357"
+  },
+  {
+    "Time": "2024-11-05 18:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9683181437109555",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.023249397235853522"
+  },
+  {
+    "Time": "2024-11-05 18:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9846722669522768",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.017938318482934944"
+  },
+  {
+    "Time": "2024-11-05 20:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8773398660360521",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.020803132253872623"
+  },
+  {
+    "Time": "2024-11-05 20:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9163633589671498",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.019829871593542835"
+  },
+  {
+    "Time": "2024-11-05 22:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.954770201364336",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.014022102968750458"
+  },
+  {
+    "Time": "2024-11-05 22:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9718356285727844",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.013651157368237073"
+  },
+  {
+    "Time": "2024-11-06 00:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8743517770608044",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.016220292466804415"
+  },
+  {
+    "Time": "2024-11-06 01:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9048222735091318",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.015427564653213422"
+  },
+  {
+    "Time": "2024-11-06 02:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9331267116070623",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.014464004265245741"
+  },
+  {
+    "Time": "2024-11-06 03:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9671085697840729",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.013754806574772727"
+  },
+  {
+    "Time": "2024-11-06 04:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8824605912599418",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01610424846780611"
+  },
+  {
+    "Time": "2024-11-06 05:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9240580962872892",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.014944706651189327"
+  },
+  {
+    "Time": "2024-11-06 05:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9447326002242087",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.014227964304434843"
+  },
+  {
+    "Time": "2024-11-06 07:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9444460886190854",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.009346571690222199"
+  },
+  {
+    "Time": "2024-11-06 07:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8770564159975018",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.011261477308368467"
+  },
+  {
+    "Time": "2024-11-06 09:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8759129208824863",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.011202377500829058"
+  },
+  {
+    "Time": "2024-11-06 09:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8742117103900894",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.07808090530127064"
+  },
+  {
+    "Time": "2024-11-06 11:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8636569596296729",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.10497886238798432"
+  },
+  {
+    "Time": "2024-11-06 11:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.873758343406738",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.10490503253722845"
+  },
+  {
+    "Time": "2024-11-06 13:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9196729124325624",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01869476009250462"
+  },
+  {
+    "Time": "2024-11-06 14:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.910770387099375",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.06220982263950159"
+  },
+  {
+    "Time": "2024-11-06 15:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8617932309783592",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.10980420898410483"
+  },
+  {
+    "Time": "2024-11-06 16:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9089408459414599",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.024216011413268606"
+  },
+  {
+    "Time": "2024-11-06 17:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9692942731866468",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.02251576922980194"
+  },
+  {
+    "Time": "2024-11-06 18:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8780575482668727",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.025268311329882175"
+  },
+  {
+    "Time": "2024-11-06 19:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9183855236886164",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.02387003503235395"
+  },
+  {
+    "Time": "2024-11-06 20:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9377269705135421",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.018460875747774233"
+  },
+  {
+    "Time": "2024-11-06 20:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.982730213222804",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.017415940852768957"
+  },
+  {
+    "Time": "2024-11-06 22:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8940519374358664",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.02065116132019986"
+  },
+  {
+    "Time": "2024-11-06 22:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9359231975409497",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.018680568953308316"
+  },
+  {
+    "Time": "2024-11-07 00:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9549117988183373",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01810825288394487"
+  },
+  {
+    "Time": "2024-11-07 00:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9948981544366436",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.012076839090804248"
+  },
+  {
+    "Time": "2024-11-07 02:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9030077850535341",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.014750521569274132"
+  },
+  {
+    "Time": "2024-11-07 02:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9310800543530119",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01395869192905003"
+  },
+  {
+    "Time": "2024-11-07 04:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9387156013860732",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.00886083953342413"
+  },
+  {
+    "Time": "2024-11-07 05:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9248842090009037",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.00929681288569804"
+  },
+  {
+    "Time": "2024-11-07 06:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8949928588959685",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.010078223714866573"
+  },
+  {
+    "Time": "2024-11-07 07:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9123338270959866",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.00962410726058207"
+  },
+  {
+    "Time": "2024-11-07 08:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.9306328105028061",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.009147536472125949"
+  },
+  {
+    "Time": "2024-11-07 09:00:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8553478679505516",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.011206149828969794"
+  },
+  {
+    "Time": "2024-11-07 09:58:00",
+    "Inj Gas Meter Volume Instantaneous": "0.8797179378716296",
+    "Inj Gas Meter Volume Setpoint": "543.0",
+    "Inj Gas Valve Percent Open": "0.01056629112241858"
+  }
+]
